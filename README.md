@@ -13,5 +13,5 @@
 ### Tabs:
 ![](https://github.com/aniruddhathorat123/Small-Javascript-Projects/blob/main/8-Tabs/screenshot.jpg?raw=true)
 
-### Lorem-ipsume
+### Lorem-ipsum:
 ![](https://github.com/aniruddhathorat123/Small-Javascript-Projects/blob/main/9-Lorem-ipsum/screenshot.jpg?raw=true)
